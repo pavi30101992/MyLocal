@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiBank - Accounts",
+  "Type": "Screen",
+  "Id": "IUOYmjaxVUqU2rha0FAEAg",
+  "Reference": "4exoZ80HEke-C_OmOyeRfw/IUOYmjaxVUqU2rha0FAEAg",
+  "ParentRef": "4exoZ80HEke-C_OmOyeRfw/qBnVLTRic0CzR-TMCbVWmw",
+  "Created": "2026-04-17T05:12:31.00504Z",
+  "Updated": "2026-04-17T05:12:31.00504Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

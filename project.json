@@ -1,0 +1,145 @@
+{
+  "name": "NewTestManagerProject",
+  "projectId": "6e3d9d21-f571-4516-84e8-47ffa705ba35",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Database.Activities": "[2.0.0]",
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.Testing.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[25.10.30]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.161.0",
+  "projectVersion": "1.0.230117871",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession",
+    "robotVersion": "25.0.161"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d5108736-536c-4028-9927-235a361fb889",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Login UiBank.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5b222a6f-f8f1-4bf5-8473-0c6d180d0d52",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Logout - HomePage.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cb5908ff-01a5-4399-bd43-16bdef0748e0",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Apply for a New Account.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3235240b-2914-434c-8ddb-94d6b8e58e34",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Apply for a Loan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5c9e3e85-0bb7-4571-b02e-1d486456c80e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Logout - Loan Result Screen.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e5071950-7c68-42e7-b5c3-e08f0f182e5e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Logout from Account Creation Page.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4b0f2573-da57-49e7-96c0-0167a26f21e0",
+        "dataVariationFilePath": ".variations\\DB_Input_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_DB Testing.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Login UiBank.xaml",
+      "uniqueId": "d5108736-536c-4028-9927-235a361fb889",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Logout - HomePage.xaml",
+      "uniqueId": "5b222a6f-f8f1-4bf5-8473-0c6d180d0d52",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Apply for a New Account.xaml",
+      "uniqueId": "cb5908ff-01a5-4399-bd43-16bdef0748e0",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Apply for a Loan.xaml",
+      "uniqueId": "3235240b-2914-434c-8ddb-94d6b8e58e34",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Logout - Loan Result Screen.xaml",
+      "uniqueId": "5c9e3e85-0bb7-4571-b02e-1d486456c80e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Logout from Account Creation Page.xaml",
+      "uniqueId": "e5071950-7c68-42e7-b5c3-e08f0f182e5e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows",
+  "coverageMergeWorkflowPath": "CoverageMergeHelperWorkflow.xaml",
+  "performanceTestingBootloaderPath": "PerformanceTestingBootloaderWorkflow.cs"
+}

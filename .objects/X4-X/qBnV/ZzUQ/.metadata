@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge UiBank-Apply",
+  "Type": "Screen",
+  "Id": "ZzUQLQ2ZtUm3iktbNK83Gg",
+  "Reference": "4exoZ80HEke-C_OmOyeRfw/ZzUQLQ2ZtUm3iktbNK83Gg",
+  "ParentRef": "4exoZ80HEke-C_OmOyeRfw/qBnVLTRic0CzR-TMCbVWmw",
+  "Created": "2026-04-17T05:18:51.3079652Z",
+  "Updated": "2026-04-17T05:18:51.3079652Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

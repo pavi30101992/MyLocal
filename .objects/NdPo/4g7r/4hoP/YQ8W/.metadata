@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Congrats!",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "YQ8W1qFapUGt75H6ttT2rg",
+  "Reference": "4exoZ80HEke-C_OmOyeRfw/YQ8W1qFapUGt75H6ttT2rg",
+  "ParentRef": "4exoZ80HEke-C_OmOyeRfw/4hoPQF5v-U6xxjN4yBYv4A",
+  "Created": "2026-04-17T09:10:02.2583813Z",
+  "Updated": "2026-04-17T09:10:02.2583813Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

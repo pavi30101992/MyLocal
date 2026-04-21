@@ -1,0 +1,13 @@
+﻿{
+  "Name": "UiBank is an applicatio…",
+  "Type": "Element",
+  "Id": "Y3QaWXXsH06sEsOYg93NIQ",
+  "Reference": "4exoZ80HEke-C_OmOyeRfw/Y3QaWXXsH06sEsOYg93NIQ",
+  "ParentRef": "4exoZ80HEke-C_OmOyeRfw/0VgUnOhGNk-sfdrqYAPlDw",
+  "Created": "2026-04-17T02:43:22.8509838Z",
+  "Updated": "2026-04-17T02:43:22.8509838Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

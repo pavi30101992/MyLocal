@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/hollard_training/batch4/testmanager_/",
+  "defaultProject": {
+    "id": "f1aab92a-f2aa-0000-2cac-0b498a155d5e",
+    "name": "NewTMP_Pavithra",
+    "key": "TMP"
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Give a Nickname to Your…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "8TEs2XyyOUqZl3gvVlMMYQ",
+  "Reference": "4exoZ80HEke-C_OmOyeRfw/8TEs2XyyOUqZl3gvVlMMYQ",
+  "ParentRef": "4exoZ80HEke-C_OmOyeRfw/ZzUQLQ2ZtUm3iktbNK83Gg",
+  "Created": "2026-04-17T05:19:10.8673859Z",
+  "Updated": "2026-04-17T05:19:10.8673859Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
